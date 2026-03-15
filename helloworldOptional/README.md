@@ -2,7 +2,7 @@
 
 Course: Computação Móvel\
 Student(s): Dinis Simão\
-Date: 2026\
+Date: 15/03/2026
 Repository URL: https://github.com/dinis6045/Trabalho-1-todos
 
 ------------------------------------------------------------------------
@@ -157,9 +157,7 @@ Ferramentas de IA foram utilizadas para apoio durante o desenvolvimento.
 
 Exemplos de prompts utilizados:
 
--   How to create a basic Android app using Kotlin
--   How to connect XML layout with Kotlin code
--   Create README structure for mobile application
+- Criação do relatório
 
 ------------------------------------------------------------------------
 
@@ -176,7 +174,7 @@ Processo seguido:
 
 ------------------------------------------------------------------------
 
-# 9. Verification of AI-Generated Artifacts
+# 9. Verification of Artifacts
 
 Todo o código foi verificado manualmente através de:
 
@@ -198,7 +196,6 @@ Contribuição humana:
 Contribuição da IA:
 
 -   Apoio na escrita do relatório
--   Sugestões de código
 -   Explicação de conceitos
 
 ------------------------------------------------------------------------
@@ -257,7 +254,6 @@ Ferramentas utilizadas:
 Utilização:
 
 -   Explicação de conceitos
--   Sugestões de código
 -   Apoio na documentação
 
 O autor mantém total responsabilidade pelo conteúdo final.
