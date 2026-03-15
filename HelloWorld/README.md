@@ -95,14 +95,14 @@ de código e resolução de erros.
 
 # 8. Autonomous Agent Workflow
 
-Ferramentas de IA auxiliaram na geração de código, explicação de erros e
+Ferramentas de IA auxiliaram na explicação de erros e
 melhoria da estrutura do projeto.
 
 ------------------------------------------------------------------------
 
 # 9. Verification of AI-Generated Artifacts
 
-Todo o código gerado com apoio de IA foi revisto e testado manualmente.
+Todo o código foi feito e testado manualmente.
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ Todo o código gerado com apoio de IA foi revisto e testado manualmente.
 
 Humano: - criação do projeto - testes - execução
 
-IA: - ajuda na geração de código - explicação de erros
+IA: - explicação de conceitos - explicação de erros
 
 ------------------------------------------------------------------------
 
