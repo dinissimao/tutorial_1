@@ -1,9 +1,9 @@
 
 # Tutorial 1 - Hello Kotlin. Hello Mobile Android World!
 
-**Curso:** Computação Móvel  
-**Aluno(s):**  
-**Data:**  
+**Cadeira: Computação Móvel  
+**Aluno(s):Dinis Simão
+**Data:15/03/2026
 **URL do Repositório:**  
 
 ---
